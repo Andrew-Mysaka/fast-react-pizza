@@ -40,6 +40,7 @@ function Cart() {
             <div>
                 <Button
                     to="/order/new"
+                    type={'secondary'}
                 >
                     Order pizzas
                 </Button>
