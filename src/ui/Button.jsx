@@ -9,7 +9,6 @@ function Button({children, disabled, to}) {
             to={to}
             className={className}
         >
-        >
             {children}
         </Link>
     )
